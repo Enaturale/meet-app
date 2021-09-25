@@ -16,7 +16,7 @@ function MainNavigation(){
                 </li>
 
                 <li>
-                    <Link to = '/favorities-page'>Favorities</Link>
+                    <Link to = '/favorities-page'>My Favorities</Link>
                 </li>
             </ul>
         </nav>

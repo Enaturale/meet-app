@@ -33,9 +33,12 @@
 }
 
 
-.header a:active,
 .header a:visited{
     color: white;
+}
+
+.header a:active{
+    font-size: 2rem;
 }
 
 .header a:hover{
